@@ -1,0 +1,112 @@
+*{  /*overall style*/
+    margin: 0px;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+align-items: center;
+}
+
+body{ /*just background*/
+background: rgb(42, 41, 40);
+    
+}
+.card{ 
+    width: 90%;
+    max-width: 350px;
+    background: linear-gradient(135deg,#00feba, #5b548a);
+    color: aqua;
+    margin: 100px auto 0;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 40px 35px;
+    height: 450px
+}
+
+
+.search{
+    width: 100%;
+display: flex;
+align-items: center;
+  display: flex;
+
+}
+
+.search input{ /*enter city name block*/
+    border: 0;
+    outline: 0;
+    background: #ebf7fd;
+    color: rgb(139, 139, 129);
+    padding: 10px 15px;
+    height: 40px;
+    border-radius: 30px;
+    flex: 1;
+    margin-right: 8px;
+    font-size: 18px;
+ margin-left: -20px;
+}
+.search button{ /*search button block*/
+    border: 0;
+    outline: 0;
+    background: #ebf7fd;
+border-radius: 50%;
+width: 40px;
+margin-right: -20px;
+height: 40px;
+cursor: pointer;
+}
+
+.search button img{ /*search button image*/
+width: 16px;
+height: 16px;
+}
+
+.weather-icon{ /*weather icon*/
+    width:150px ;
+    margin-top: 30px;
+}
+
+.weather h1{  /*"temperature" text*/
+    font-size: 50px;
+    font-weight: 500;
+    margin-top: -15px;
+}
+
+.weather h2{/*"city" text*/
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 1px;
+}
+
+.details{ /*it includes humidity,humidity image, wind speed, wind speed image*/  
+    display: flex;
+align-items: center;
+justify-content: space-between ;
+
+margin-top: 50px;
+
+
+}
+
+.col{/*it includes humidity,humidity image, wind speed, wind speed image*/
+    display: flex;
+    align-items: center;
+    text-align: left;
+    
+     margin-top: -25px;
+}
+.col img{ /*it includes humdity image and winf speed image*/
+width: 35px;
+margin-right: 0px;
+
+}
+.col div{/*it includes humidity text and wind speed text*/
+font-size: 16px;
+margin-left: 4px;
+}
+
+.error{
+    display: flex;
+    align-items: left;
+    display: none;
+}

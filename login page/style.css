@@ -1,0 +1,74 @@
+
+
+.video{
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.4);
+  object-fit: cover;
+  z-index: -1;
+
+}
+
+.login-container{
+    background: transparent;
+    position: absolute;
+    text-align: center;
+    left: 40%;
+border-radius: 20px;
+padding: 20px;
+margin-top: 140px;
+/*border: 3px solid rgb(100, 89, 76);*/
+
+}
+
+.login-container h2{
+  font-size:30px;
+  
+}
+
+
+button {
+  background-color: #e8960a; /* Initial background color (blue) */
+  border: none;
+  color: white; /* Initial text color */
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer; /* Changes cursor to a hand pointer */
+  transition-duration: 0.4s; /* Smooths the transition over 0.4 seconds */
+    border-radius: 20px;
+}
+
+button:hover {
+  background-color: #6d6961; /* New background color on hover (green) */
+  color: white; /* Text color remains white */
+}
+
+
+.input-group{ 
+  
+  padding: 10px;
+  
+}
+input {
+  width: 200px;
+  height: 28px;
+
+}
+
+i{
+  font-size: 20px;
+
+}
+
+.links{
+  color: aliceblue;
+}
