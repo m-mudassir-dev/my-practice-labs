@@ -1,0 +1,172 @@
+.nav{
+display: flex;
+}
+
+.nav h1{
+    margin-left: 80px;
+    font-size: 40px;
+}
+
+.nav-materials ul{
+display: flex;
+margin-top: 45px;
+margin-left: 230px;
+gap: 40px;
+list-style: none;
+}
+
+
+.nav-materials ul li button{
+   border-radius: 20px;
+   font-size: 15px;
+     border: none;
+     background: none;
+}
+.nav-materials ul li button:hover{
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+.buttons{
+    display: flex;
+    gap: 25px;
+    margin-top: 36px;
+    margin-left: 100px;
+    height: 33px;
+}
+
+
+
+.buttons .sign-up-free{
+border-radius: 20px;
+width: 110px; 
+background-color: rgb(253, 0, 0);
+color: aliceblue;
+border: none;
+}
+.buttons .sign-up-free:hover{
+  color: black;
+    font-size: 15px;
+}
+
+.buttons .sign-in{
+border-radius: 20px;
+width: 110px; 
+background-color: white;
+}
+.buttons .sign-in:hover{
+    font-size: 15px;
+}
+
+.main{
+    display: flex;
+    margin-top: 40px;
+margin-left: 80px;
+}
+
+
+.main h1{
+    font-size: 50px;
+  
+}
+
+.main-left img{
+    width: 350px;
+}
+.main-left{
+    margin-bottom: 30px;
+    margin-left: 150px;
+}
+.main h1 span.h1-remaining{
+    background-color: aquamarine;
+    border-radius:200px 0 200px;
+
+}
+
+.content{
+font-size: 25px;
+margin-right: 82px;
+
+}
+.button1 .sign-up-free{
+margin-top: 30px;
+font-size: 23px;
+border-radius: 25px;
+width: 230px; 
+height: 45px;
+background-color: rgb(253, 0, 0);
+color: aliceblue;
+border: none;
+}
+.button1 .sign-up-free:hover{
+  color: black;
+    font-size: 25px;
+}
+
+.content2{
+margin-top: 25px;
+margin-left: 33px;
+width: 180px;
+
+}
+
+span .content2{
+  display: inline-block;  
+
+}
+.footer{
+
+
+}
+
+.content3{
+    margin-left: 80px;
+    margin-top: 13px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+
+.content4 ul{
+       margin-top: 30px;
+    list-style: none;
+    display: flex;
+ margin-left: 80px;
+    gap: 80px;
+    justify-content: center;
+ color: grey;
+}
+
+.Oberio{
+display: flex;
+}
+.Oberio img{width: 15px;}
+
+
+.air-canada{
+    display: flex;
+}
+.air-canada img{width: 15px;}
+
+
+.adobe{
+display: flex;
+}
+.adobe img{width: 15px;}
+
+
+.shopify{
+display: flex;
+}
+.shopify img{width: 15px;}
+
+
+.survey{
+display: flex;
+}
+.survey img{width: 15px;}
