@@ -1,23 +1,26 @@
-# 📂 My Practice Labs & Learning Journey
+# 🚀 My Web Development Practice Labs
 
-Welcome! This repository is a centralized hub for my web development practice, experiments, and frontend labs.
+Welcome to my professional laboratory! This repository is a centralized collection of my frontend and full-stack projects. Each project is organized into its own directory for clean version control and independent deployment.
 
-## 🚀 Projects in this Lab
+## 🛠️ Project Portfolio
 
 | Project Name | Folder Name | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **Login Page** | `login page` | HTML, CSS, JS | [View Live](#) |
-| **Weather App** | `weather app` | HTML, CSS, JS | [View Live](#) |
+| **Login Page** | `login page` | HTML, CSS, JS | [View Live](https://login-page-malenia.netlify.app) |
+| **Weather App** | `weather app` | HTML, CSS, JS | [View Live](https://mudassir-weather-app.netlify.app) |
+| **Hotjar Clone** | `hotjar-clone` | HTML, CSS | [View Live](https://mudassir-hotjar-clone.netlify.app) |
 
 ---
 
-## 🛠️ How it's Organized
-Each folder in this repository is a standalone project. By using **Netlify's Base Directory** feature, I can host each folder as a separate live website.
+## 📂 Repository Structure
 
-## 🎯 Learning Goals
-- [x] Mastering Responsive Design with CSS
-- [x] Understanding DOM Manipulation in JavaScript
-- [ ] Transitioning projects to **React & Vite**
+Each folder in this repository represents a standalone project:
+* **/login page**: A responsive authentication interface.
+* **/weather app**: A dynamic application fetching real-time weather data.
+* **/hotjar-clone**: A high-fidelity frontend design of the Hotjar landing page.
+
+## ⚙️ Deployment Info
+All projects are hosted via **Netlify** using the "Base Directory" configuration to ensure each folder serves as an independent site.
 
 ---
-*Follow my journey as I build more! Feel free to explore the code in each folder.*
+*Maintained by [m-mudassir-dev](https://github.com/m-mudassir-dev)*
