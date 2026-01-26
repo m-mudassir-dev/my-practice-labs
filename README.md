@@ -1,14 +1,14 @@
 #  My Web Development Practice Labs
 
 Welcome to my professional laboratory! This repository is a centralized collection of my frontend and full-stack projects. Each project is organized into its own directory for clean version control and independent deployment.
-##  Project Portfolio
+## Project Portfolio
 
 | Project Name | Folder Name | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **Hotjar Clone** | `hotjar homepage` | HTML, CSS | [View Live](https://hotjar1.netlify.app) |
-| **Weather App** | `weather app` | HTML, CSS, JS | [View Live](https://mudassir-weather-app.netlify.app) |
-| **Login Page** | `login page` | HTML, CSS | [View Live](https://login-page-malenia.netlify.app) |
-
+| Cards Project | `cards project` | HTML, CSS | [View Live](https://my-practice-labs.vercel.app/cards%20project/index.html) |
+| Hotjar Clone | `hotjar homepage` | HTML, CSS | [View Live](https://my-practice-labs.vercel.app/hotjar%20homepage/index.html) |
+| Weather App | `weather app` | HTML, CSS, JS | [View Live](https://my-practice-labs.vercel.app/weather%20app/index.html) |
+| Login Page | `login page` | HTML, CSS | [View Live](https://my-practice-labs.vercel.app/login%20page/index.html) |
 ---
 
 ##  Repository Structure
