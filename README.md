@@ -6,19 +6,23 @@ Welcome to my professional laboratory! This repository is a centralized collecti
 
 | Project Name | Folder Name | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
-| Cards Project | `cards project` | React, Vite | [View Live](./cards%20project/index.html) |
-| Hotjar Clone | `hotjar homepage` | HTML, CSS | [View Live](./hotjar%20homepage/index.html) |
-| Weather App | `weather app` | HTML, CSS, JS | [View Live](./weather%20app/index.html) |
-| Login Page | `login page` | HTML, CSS | [View Live](./login%20page/index.html) |
+| Cards Project | `cards project` | React (Vite) | [View Live](https://my-practice-labs.vercel.app/) |
+| Hotjar Clone | `hotjar homepage` | HTML, CSS | [View Live](https://my-practice-labs.vercel.app/hotjar%20homepage/) |
+| Weather App | `weather app` | HTML, CSS, JS | [View Live](https://my-practice-labs.vercel.app/weather%20app/) |
+| Login Page | `login page` | HTML, CSS | [View Live](https://my-practice-labs.vercel.app/login%20page/) |
 
 ---
 
 ## Repository Structure
 
 Each folder in this repository represents a standalone project:
-* **cards project**: A modern UI component project built with React.
+* **cards project**: A modern UI component project built with React and Vite.
 * **hotjar homepage**: A high-fidelity frontend design of the Hotjar landing page.
 * **weather app**: A dynamic application fetching real-time weather data.
 * **login page**: A responsive authentication interface.
 
-*by m-mudassir-dev*
+## 🛠️ Tech Stack Used
+* **Frontend:** React, Vite, HTML5, CSS3, JavaScript (ES6+)
+* **Deployment:** Vercel & Netlify
+
+  by m-mudassir-dev*
