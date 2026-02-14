@@ -6,6 +6,7 @@ Welcome to my professional laboratory! This repository is a centralized collecti
 
 | Project Name | Folder Name | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
+| UI Project | `07-ui-project` | React (Vite) | [View Live](https://my-practice-labs-eqic.vercel.app/) |
 | Cards Project | `cards project` | React (Vite) | [View Live](https://my-practice-labs.vercel.app/) |
 | Hotjar Clone | `hotjar homepage` | HTML, CSS | [View Live](https://hotjar1.netlify.app) |
 | Weather App | `weather app` | HTML, CSS, JS | [View Live](https://mudassir-weather-app.netlify.app/) |
@@ -16,6 +17,7 @@ Welcome to my professional laboratory! This repository is a centralized collecti
 ## Repository Structure
 
 Each folder in this repository represents a standalone project:
+* **UI project**: A modern UI component project built with React and Vite.
 * **cards project**: A modern UI component project built with React and Vite.
 * **hotjar homepage**: A high-fidelity frontend design of the Hotjar landing page.
 * **weather app**: A dynamic application fetching real-time weather data.
